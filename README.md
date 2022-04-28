@@ -3,12 +3,12 @@
 Welcome to the documentation of **shashacloud.**
 
 Here are the list of commands:
-`login` (IMPORTANT)
-`send_file`
-`get_link`
-`search_file`
-`get_file`
-`download`
+`login` (IMPORTANT),
+`send_file`,
+`get_link`,
+`search_file`,
+`get_file`,
+`download`,
 `rename_file`
 
 Usage:
