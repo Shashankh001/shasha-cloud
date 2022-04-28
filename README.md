@@ -1,4 +1,4 @@
-# shasha-cloud
+# shasha-cloud-api
 
 Welcome to the documentation of **shashacloud.**
 
