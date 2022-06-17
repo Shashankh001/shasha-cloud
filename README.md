@@ -2,6 +2,8 @@
 
 Welcome to the documentation of **shashacloud.**
 
+# THE CURRENT VERSION IS OUTDATED, THE NEW VERSION WILL RELEASE AFTER SOME TIME. CREATE AN ISSUE FOR MORE INFORMATION.
+
 Here are the list of commands:
 `login` (IMPORTANT),
 `send_file`,
